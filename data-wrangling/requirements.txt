@@ -2,3 +2,4 @@ jupyter
 numpy
 pandas
 psycopg2
+seaborn
